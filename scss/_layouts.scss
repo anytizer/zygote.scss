@@ -1,0 +1,47 @@
+body
+{
+	background-color: #F0F0FA;
+	.wrapper
+	{
+		width: 800px;
+		background-color: #CCC;
+		margin: 0 auto 0 auto;
+		.header
+		{
+			.logo
+			{
+				a
+				{
+					img
+					{
+						height: 100px;
+						width: 200px;
+						background-color: #0000FF;
+					}
+				}
+			}
+
+			.nav
+			{
+				background-color: orange;
+				float: right;
+				ul
+				{
+					li
+					{
+						display: inline;
+						padding: 10px;
+					}
+				}
+			}
+		}
+
+		.main
+		{
+		}
+		
+		.footer
+		{
+		}
+	}
+}

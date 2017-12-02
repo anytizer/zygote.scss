@@ -1,4 +1,19 @@
-a { }
+*
+{
+	margin: 0;
+	paddng: 0;
+	border: none;
+	outline: none;
+	font-size: 12px;
+	font-family: "Verdana";
+	font-weight: normal;
+}
+
+a
+{
+	text-decoration: none;
+}
+
 abbr { }
 acronym { }
 address { }
